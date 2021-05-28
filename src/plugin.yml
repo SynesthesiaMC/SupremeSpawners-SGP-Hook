@@ -1,0 +1,6 @@
+name: "SupremeSpawners-SGP-Hook"
+main: "services.synesthesia.ss_sgphook.Main"
+version: "1.0"
+api-version: "1.8"
+author: "Rikitek4759"
+depend: [ ShopGUIPlus, SupremeSpawners ]
